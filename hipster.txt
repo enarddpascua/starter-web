@@ -6,4 +6,4 @@ Leggings listicle helvetica, synth kale chips bicycle rights humblebrag lumberse
 
 Dummy text? More like dummy thicc text, amirite?
 
-test lang po ito
+exercise git rebase
