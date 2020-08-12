@@ -8,3 +8,5 @@ Dummy text? More like dummy thicc text, amirite?
 
 first commit after branching out
 test
+
+second commit after branching out
